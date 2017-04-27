@@ -11,8 +11,9 @@ namespace Laboratorna1
 
         public static void main(String[] args) {
 
-            Console.WriteLine("Hello from branch master");
-           
+
+            Console.WriteLine("Hello from new_class and branch master");
+
 
     }
 }
